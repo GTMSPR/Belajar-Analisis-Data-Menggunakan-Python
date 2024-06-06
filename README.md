@@ -29,7 +29,7 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 1. Masuk ke direktori proyek (Local):
 
     ```shell
-    cd bike-sharing/dashboard/
+    cd Belajar-Analisis-Data-Menggunakan-Python/dashboard/
     streamlit run dashboard.py
     ```
     Atau bisa dengan kunjungi website ini [Project Data Analytics](https://fmzhluposmlbkgxtihxtfc.streamlit.app/)
