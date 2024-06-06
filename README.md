@@ -1,5 +1,8 @@
 Project Analisis Data
-Repository ini berisi proyek data analytics yang saya kerjakan. Deployment in Streamlit Streamlit logo
+
+Repository ini berisi proyek data analytics yang saya kerjakan. 
+
+Deployment in Streamlit Streamlit logo
 
 Deskripsi
 Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan akhirnya adalah untuk menghasilkan wawasan dan informasi yang berguna dari data yang dianalisis.
